@@ -22,10 +22,11 @@ JavaScriptDependency(
                     'search': '"https://fonts.googleapis.com/css?family=Lato:400,700,400italic"',
                     'replace': '../../../google_fonts/lato/import.css',
                 }
-            ]
+             ]
         }
-    ], version_string='=4.5.2'
+        ], version_string='=3.4.1'
 )
+
 JavaScriptDependency(
     label=_('Fancybox'), module=__name__, name='@fancyapps/fancybox',
     version_string='=3.2.5'
