@@ -10,7 +10,7 @@ GoogleFontDependency(
 )
 JavaScriptDependency(
     label=_('Bootstrap'), module=__name__, name='bootstrap',
-    version_string='=3.4.1'
+    version_string='=4.5.2'
 )
 JavaScriptDependency(
     label=_('Bootswatch'), module=__name__, name='bootswatch',
@@ -24,7 +24,7 @@ JavaScriptDependency(
                 }
             ]
         }
-    ], version_string='=3.4.1'
+    ], version_string='=4.5.2'
 )
 JavaScriptDependency(
     label=_('Fancybox'), module=__name__, name='@fancyapps/fancybox',
@@ -35,7 +35,7 @@ JavaScriptDependency(
     name='@fortawesome/fontawesome-free', version_string='=5.6.3'
 )
 JavaScriptDependency(
-    label=_('jQuery'), module=__name__, name='jquery', version_string='=3.4.1'
+    label=_('jQuery'), module=__name__, name='jquery', version_string='=3.5.1'
 )
 JavaScriptDependency(
     label=_('JQuery Form'), module=__name__, name='jquery-form',
